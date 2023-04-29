@@ -1,10 +1,11 @@
-# Sonny Li
-# Fun Fact: I played guitar in a band called Attica.
-
-print("  SSS   L     ")
-print(" S   S  L     ")
-print(" S      L     ")
-print("  SSS   L     ")
-print("     S  L     ")
-print(" S   S  L     ")
-print("  SSS   LLLLL ")
+# my name is caio whitmore
+# a fun fact about me is i love basketball
+print("""
+ CCC   W   W
+C   C  W   W
+C      W   W
+C      W W W
+C      WW WW
+C   C  WW WW
+ CCC   W   W
+ """)
